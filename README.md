@@ -29,6 +29,6 @@
 ___
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
+<br><br>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=itSubeDibesh" alt="Wakatime Status"/>
