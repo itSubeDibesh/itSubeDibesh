@@ -27,9 +27,9 @@
 
 # GitHub stats and Top Languages
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7)
 
 # Week Wakatime Status
 [![itSubeDibesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itSubeDibesh)](https://github.com/itSubeDibesh/github-readme-stats)
