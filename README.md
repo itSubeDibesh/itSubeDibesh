@@ -26,9 +26,8 @@
 [![Github](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
 
 ## GitHub stats, Top Languages and Wakatime status
-___
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
-<br><br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=itSubeDibesh" alt="Wakatime Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itSubeDibesh" alt="Wakatime Status"/>
