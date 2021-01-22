@@ -25,11 +25,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=itSubeDibesh.itSubeDibesh)
 [![Github](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
 
-# GitHub stats and Top 10 Languages
+# GitHub stats and Top Languages
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=5)
 
 # Week Wakatime Status
 [![itSubeDibesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itSubeDibesh)](https://github.com/itSubeDibesh/github-readme-stats)
