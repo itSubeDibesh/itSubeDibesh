@@ -22,12 +22,22 @@
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 !["Sell"](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=itSubeDibesh.itSubeDibesh)
-[![Github](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
+[![Visitors]](https://visitor-badge.laobi.icu/badge?page_id=itSubeDibesh.itSubeDibesh)
+[![Followers](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
+[![time tracker](https://wakatime.com/badge/github/itSubeDibesh/itSubeDibesh.svg)](https://wakatime.com/badge/github/itSubeDibesh/itSubeDibesh)
 
-## GitHub stats, Top Languages and Wakatime status
+<details>
+  <summary>:zap: GitHub stats</summary>
+  <img src="https://github-readme-stats.itsubedibesh.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
+<details>
+  <summary>:zap: Top Languages</summary>
+    <img src="https://github-readme-stats.itsubedibesh.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itSubeDibesh" alt="Wakatime Status"/>
+<details>
+  <summary>:zap: Wakatime status</summary>
+  <img src="https://github-readme-stats.itsubedibesh.vercel.app/api/wakatime?username=itSubeDibesh" alt="Wakatime Status"/>
+</details>
+
