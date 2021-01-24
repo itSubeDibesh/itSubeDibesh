@@ -24,7 +24,6 @@
 
 [!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=itSubeDibesh.itSubeDibesh)](https://github.com/itSubeDibesh)
 [!["Followers"](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
-[!["time tracker"](https://wakatime.com/badge/github/itSubeDibesh/itSubeDibesh.svg)](https://wakatime.com/badge/github/itSubeDibesh/itSubeDibesh)
 
 <details>
   <summary>:zap: GitHub stats</summary>
