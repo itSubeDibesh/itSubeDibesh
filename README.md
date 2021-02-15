@@ -28,6 +28,15 @@
 [!["Followers"](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
 
 <details>
+  <summary>:laughing: Lets Have some giggles </summary>
+  <pre>
+    Son: Tell Me a word that starts with "F" and ends with "uck".
+    Dad: F***!
+    Son: Naha! It's Firetruck
+  </pre>
+</details>
+
+<details>
   <summary>:zap: GitHub stats</summary>
   <img src="https://github-readme-stats.itsubedibesh.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
 </details>
