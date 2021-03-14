@@ -27,27 +27,7 @@
 [!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=itSubeDibesh.itSubeDibesh)](https://github.com/itSubeDibesh)
 [!["Followers"](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
 
-<details>
-  <summary>:laughing: Lets Have some giggles </summary>
-  <pre>
-    Son: Tell Me a word that starts with "F" and ends with "uck".
-    Dad: F***!
-    Son: Naha! It's Firetruck
-  </pre>
-</details>
-
-<details>
-  <summary>:zap: GitHub stats</summary>
-  <img src="https://github-readme-stats.itsubedibesh.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-    <img src="https://github-readme-stats.itsubedibesh.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
-</details>
-
-<details>
-  <summary>:zap: Wakatime status</summary>
-  <img src="https://github-readme-stats.itsubedibesh.vercel.app/api/wakatime?username=itSubeDibesh" alt="Wakatime Status"/>
-</details>
-
+## __:zap: GitHub Stats__
+![Github stats](https://github-readme-stats.itsubedibesh.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula)
+![Top Langs](https://github-readme-stats.itsubedibesh.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7)
+![Wakatime Status](https://github-readme-stats.itsubedibesh.vercel.app/api/wakatime?username=itSubeDibesh)
