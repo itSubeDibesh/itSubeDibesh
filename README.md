@@ -28,6 +28,4 @@
 [!["Followers"](https://img.shields.io/github/followers/itSubeDibesh?label=Follow&style=social)](https://github.com/itSubeDibesh)
 
 ## __:zap: GitHub Stats__
-![Github stats](https://github-readme-stats.itsubedibesh.vercel.app/api?username=itSubeDibesh&show_icons=true&count_private=true&theme=dracula)
-![Top Langs](https://github-readme-stats.itsubedibesh.vercel.app/api/top-langs/?username=itSubeDibesh&layout=compact&theme=dracula&&langs_count=7)
 ![Wakatime Status](https://github-readme-stats.itsubedibesh.vercel.app/api/wakatime?username=itSubeDibesh)
