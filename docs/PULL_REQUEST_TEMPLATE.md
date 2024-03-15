@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HRY2W178FH3NDP0D3VYR1WTE
-  version: v3
----
-
 # Overview 📖
 
 Explain the purpose of this PR and provide context for the changes.
