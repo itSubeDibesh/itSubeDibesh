@@ -46,6 +46,3 @@
 ![[Recent Article 1](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/1)](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/1)
 
 ![[Recent Article 2](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/2)](https://github-readme-medium-recent-article.vercel.app/medium/@itsubedibesh/2)
-
-## __:zap: GitHub Stats__
-![Wakatime Status](https://github-readme-stats.itsubedibesh.vercel.app/api/wakatime?username=itSubeDibesh)
